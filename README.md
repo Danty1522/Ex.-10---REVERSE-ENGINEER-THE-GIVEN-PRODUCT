@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="390" height="373" alt="image" src="https://github.com/user-attachments/assets/6c439c49-760a-45f3-a216-7353c5a31825" />
+
 
 ### Output:
+<img width="1163" height="818" alt="image" src="https://github.com/user-attachments/assets/91101967-637f-4b7d-ae29-026935f7a1a1" />
 
 
-### Name:
-### Register Number:
+### Name: Aman Monty
+### Register Number: 212224040054
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
